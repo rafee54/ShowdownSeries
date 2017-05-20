@@ -1,4 +1,4 @@
-Rules and FAQ for the Showdown Series
+Rules for the Showdown Series
 ===================
 
 
