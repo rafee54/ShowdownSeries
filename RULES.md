@@ -6,7 +6,6 @@ These are the official rules for the Manchester Showdown, and any other event ru
 
 ----------
 
-[TOC]
 
 Registration 
 -------------
