@@ -120,8 +120,7 @@ On top of this, avoid distracting any members of staff from both GAME and BGL. T
 
 We will be continuing the double elimination bracket, so you will know the LAN match ups as soon as the qualifiers are over.
 
-There will be four games at LAN, series is brackets: 
+There will be 3 matches at LAN, series is brackets: 
 
  - Two semifinals (Bo3)
- - One 3rd place match (Bo3)
  - One Grand Final (Bo5)
