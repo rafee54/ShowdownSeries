@@ -62,7 +62,7 @@ The top four at the end of the weekend will be **invited** to the LAN finals on 
 We will be using **Challonge** to keep track of teams progress.
 
 All games will be played in Captain's mode.
-First pick and side will be determined using a coin flip, called by the team with the lowest average MMR.
+First pick and side will be determined using a coin flip, called by the team with the even seed number, this will be known via the Challonge bracket.
 
 #### Behavior in lobby
 
