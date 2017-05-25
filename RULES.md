@@ -30,6 +30,8 @@ When you go to purchase a ticket from [Billeto](https://billetto.co.uk/e/the-man
 
 This is so we can organise which players have signed up in which team. As well as contact you if any issues were to occur with your registration.
 
+You also have the option to purchase a team ticket, which will have four empty names on it, so you can decide on your roster closer to the qualifiers.
+
 You will also receive an email confirming your ticket.
 
 ----------
@@ -94,6 +96,11 @@ The top four teams from the qualifier will be invited to the LAN finals at the i
 
 A team can reject an invite to the event, if they manage to get into the top four teams. In this case, the team placed below them will be offered. (E.G if 2nd place does not want the invite, then 5th place will be invited.)
 
+#### Account Switching
+
+Account switching is not allowed in any circumstances. This event will be ticketed in the DotA 2 client, and we will be looking at replays of games to ensure that this does not occur.
+
+
 ----------
 
 
@@ -101,6 +108,8 @@ LAN Rules
 -------------
 
 The LAN final of the Manchester Showdown will be taking place at the intu Trafford Centre on the 18th August 2017. The top four teams from the qualifier will be invited to play at the LAN final. 
+
+We cannot stress enough that: **YOU HAVE TO ATTEND THE LAN WITH THE TEAM, AND ROSTER, YOU QUALIFIED WITH.** 
 
 #### On the day
 
