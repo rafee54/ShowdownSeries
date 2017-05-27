@@ -34,6 +34,8 @@ You also have the option to purchase a team ticket, which will have four empty n
 
 You will also receive an email confirming your ticket.
 
+**Ticket sales close on the 28th July at midnight, so we can start organising teams properly**
+
 ----------
 
 
