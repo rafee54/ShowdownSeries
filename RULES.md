@@ -30,7 +30,7 @@ When you go to purchase a ticket from [Billeto](https://billetto.co.uk/e/the-man
 
 This is so we can organise which players have signed up in which team. As well as contact you if any issues were to occur with your registration.
 
-You also have the option to purchase a team ticket, which will have four empty names on it, so you can decide on your roster closer to the qualifiers.
+You also have the option to purchase a team ticket, which will have four empty names on it, so you can decide on your roster closer to the qualifiers. You will have to submit names the week prior to qualifiers.
 
 You will also receive an email confirming your ticket.
 
