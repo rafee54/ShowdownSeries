@@ -42,12 +42,12 @@ You will also receive an email confirming your ticket.
 Online Qualifier Rules
 -------------------
 
-The qualifiers for the Manchester Showdown are being held on the weekend of the 5th and 6th of August 2017. These are the rules for the online portion only, unless otherwise stated.
+The qualifiers for the Manchester Showdown are being held on 30th of July 2017 and 6th of August 2017. These are the rules for the online portion only, unless otherwise stated.
 
 
 #### On the day
 
-On the day, we will make sure that all players in teams have checked in with their confirmation code they received with their ticket order. 
+On the day, we will make sure that all players in teams have checked in with their confirmation code they received with their ticket order. They will have to do this 30 minutes before the confirmed time.
 
 An exact time will be published closer to the time of the qualifiers, this time will be when all teams have to start getting on with the qualifiers. We expect teams to be prompt to the event and start of matches.
 
@@ -94,7 +94,7 @@ The game must not be resumed before both teams agree with it. When the number or
 
 #### Invitations
 
-The top four teams from the qualifier will be invited to the LAN finals at the intu Trafford Centre on the 18th August 2017.
+The top two teams from each qualifier will be invited to the LAN finals at the intu Trafford Centre on the 18th August 2017.
 
 A team can reject an invite to the event, if they manage to get into the top four teams. In this case, the team placed below them will be offered. (E.G if 2nd place does not want the invite, then 5th place will be invited.)
 
@@ -109,7 +109,7 @@ Account switching is not allowed in any circumstances. This event will be ticket
 LAN Rules
 -------------
 
-The LAN final of the Manchester Showdown will be taking place at the intu Trafford Centre on the 18th August 2017. The top four teams from the qualifier will be invited to play at the LAN final. 
+The LAN final of the Manchester Showdown will be taking place at the intu Trafford Centre on the 18th August 2017. The top four teams from the qualifiers will be invited to play at the LAN final. 
 
 We cannot stress enough that: **YOU HAVE TO ATTEND THE LAN WITH THE TEAM, AND ROSTER, YOU QUALIFIED WITH.** 
 
