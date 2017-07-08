@@ -8,6 +8,8 @@ What do players get now when they sign up:
 2. Epulze will also be hosting our 1v1 tournament, and each player signed up will get an invite.
 3. **The big one**: The four teams that qualify gets an invite to an Epulze-hosted tournament where teams can win up to $6000
 
+They have provided a base prize pool pot of £100. Each team past the four teams we have will increase the prizepool.
+
 You can sign up for the Manchester Showdown, [here.](http://bit.ly/TMSSignUp)
 
 Rules can be found, [here](http://bit.ly/TMSRules).
