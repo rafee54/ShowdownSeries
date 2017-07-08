@@ -61,7 +61,7 @@ The only requirements of the stand-in is that they cannot already be playing in 
 
 The format of the qualifiers will be a double elimination with teams randomly seeded. 
 
-The top four at the end of the weekend will be **invited** to the LAN finals on the 18th August 2017. Your team **does not** have to accept the invite. This is explained in more detail below.
+The top two at the end of each qualifier will be **invited** to the LAN finals on the 18th August 2017. Your team **does not** have to accept the invite. This is explained in more detail below.
 
 We will be using **Challonge** to keep track of teams progress.
 
