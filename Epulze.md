@@ -6,7 +6,7 @@ What do players get now when they sign up:
 
 1. Each player that signs up gets a $5 redeem code for [Epulze.com](https://epulze.com/) (18+ players only)
 2. Epulze will also be hosting our 1v1 tournament, and each player signed up will get an invite.
-3. **The big one**: The four teams that qualify gets an invite to an Epulze-hosted tournament, where teams could win up to $6000
+3. **The big one**: The four teams that qualify gets an invite to an Epulze-hosted tournament, where teams could win up to $5000
 
 They have provided a base prize pool pot of £100. Each team past the four teams we have will increase the prizepool.
 
