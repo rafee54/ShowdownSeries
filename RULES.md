@@ -2,7 +2,7 @@ Rules and FAQ for the Showdown Series
 ===================
 
 
-These are the official rules for the Manchester Showdown, and any other event run by the British Gaming League in the future.
+These are the official rules for the York Showdown.
 
 ----------
 
@@ -14,13 +14,10 @@ Registration
  - You must have a 'Prime' DotA 2 account (Phone number tied to the account)
  - There are *no* MMR limits for this tournament
  - Your DotA 2 'Pro-Name' must match your name at sign up, along with your team name. 
- - All players must be registered in our community Discord [here](https://discord.gg/b45g8HF).
- 
- 
 
 #### Purchasing tickets
 
-When you go to purchase a ticket from [Billeto](https://billetto.co.uk/e/the-manchester-showdown-player-signup-tickets-192540), you will be prompted to enter your: 
+When you go to purchase a ticket from [Dice](www.google.com), you will be prompted to enter your: 
 
  - Forename
  - Surname
@@ -34,7 +31,7 @@ You also have the option to purchase a team ticket, which will have four empty n
 
 You will also receive an email confirming your ticket.
 
-**Ticket sales close on the 28th July at midnight, so we can start organising teams properly**
+**Ticket sales close on the 16th February at noon, so we can start organising teams properly**
 
 ----------
 
@@ -42,19 +39,17 @@ You will also receive an email confirming your ticket.
 Online Qualifier Rules
 -------------------
 
-The qualifiers for the Manchester Showdown are being held on 30th of July 2017 and 6th of August 2017. These are the rules for the online portion only, unless otherwise stated.
+The qualifiers for the York Showdown are being held on 17th of February 2018 and 24th of February 2018. These are the rules for the online portion only, unless otherwise stated.
 
 
 #### On the day
 
-On the day, we will make sure that all players in teams have checked in with their confirmation code they received with their ticket order. They will have to do this 30 minutes before the confirmed time.
 
-An exact time will be published closer to the time of the qualifiers, this time will be when all teams have to start getting on with the qualifiers. We expect teams to be prompt to the event and start of matches.
+An exact time for checking in will be published closer to the time of the qualifiers. This time will be when all teams have to start getting on with the qualifiers. We expect teams to be prompt to the event and start of matches.
 
 #### Stand-ins
 
-If on the day of the qualifiers, one of your team mates cannot play, you may get a stand-in. 
-
+If on the day of the qualifiers, one of your team mates cannot play, you may use one of your stand-ins. 
 The only requirements of the stand-in is that they cannot already be playing in one of the other teams in the qualifiers.
 
 #### Format
@@ -74,7 +69,7 @@ In the lobby, the only people allowed will be:
 
  - The 10 players
  - 1 Admin
- - Auhtorised BGL observers (If your game will be streamed)
+ - Auhtorised BGL/FragSoc observers (If your game will be streamed)
 
 Whilst in the lobby, please keep chatter to a minimum so the admins can get along with starting your games, and asking any questions that need to be asked.
 
@@ -109,13 +104,13 @@ Account switching is not allowed in any circumstances. This event will be ticket
 LAN Rules
 -------------
 
-The LAN final of the Manchester Showdown will be taking place at the intu Trafford Centre on the 18th August 2017. The top four teams from the qualifiers will be invited to play at the LAN final. 
+The LAN final of the York Showdown will be taking place on the University of York campus on the 17th March 2018. The top two teams from each qualifier will be invited to play at the LAN final. 
 
 We cannot stress enough that: **YOU HAVE TO ATTEND THE LAN WITH THE TEAM, AND ROSTER, YOU QUALIFIED WITH.** 
 
 #### On the day
 
-The LAN will be starting early on the morning of the 18th August. The Trafford Centre itself will open at 10am, so teams will be required to arrive at the venue as close to that time as they can.
+The LAN will be starting early on the morning of the 17th March. We will provide a time to arrive closer to the event.
 
 We will have a list of the teams and players to ensure that everyone who should be there, is there.
 
@@ -125,7 +120,6 @@ There is going to be a separate area for spectators to watch the matches on to a
 
 At the venue, we ask to keep the swearing to a minimum. 
 
-On top of this, avoid distracting any members of staff from both GAME and BGL. This includes admins, casters and the staff helping us throughout the day. 
 
 #### Format
 
@@ -134,4 +128,4 @@ We will be continuing the double elimination bracket, so you will know the LAN m
 There will be 3 matches at LAN, series is brackets: 
 
  - Two semifinals (Bo3)
- - One Grand Final (Bo5)
+ - One Grand Final (Bo3)
