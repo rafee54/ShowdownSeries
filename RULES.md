@@ -56,19 +56,19 @@ The only requirements of the stand-in is that they cannot already be playing in 
 
 The format of the qualifiers will be a double elimination with teams randomly seeded. 
 
-The top two at the end of each qualifier will be **invited** to the LAN finals on the 18th August 2017. Your team **does not** have to accept the invite. This is explained in more detail below.
+The top two at the end of each qualifier will be **invited** to the LAN finals on the 17th March 2018. Your team **does not** have to accept the invite. This is explained in more detail below.
 
 We will be using **Challonge** to keep track of teams progress.
 
 All games will be played in Captain's mode.
-First pick and side will be determined using a coin flip, called by the team with the even seed number, this will be known via the Challonge bracket.
+First pick and side will be determined using the coin flip function within the DotA 2 client. This is proven to be a fair way of determining sides. 
 
 #### Behavior in lobby
 
 In the lobby, the only people allowed will be: 
 
  - The 10 players
- - 1 Admin
+ - 1 Admin/FaceIT bot
  - Auhtorised BGL/FragSoc observers (If your game will be streamed)
 
 Whilst in the lobby, please keep chatter to a minimum so the admins can get along with starting your games, and asking any questions that need to be asked.
@@ -89,9 +89,9 @@ The game must not be resumed before both teams agree with it. When the number or
 
 #### Invitations
 
-The top two teams from each qualifier will be invited to the LAN finals at the intu Trafford Centre on the 18th August 2017.
+The top two teams from each qualifier will be invited to the LAN finals at the intu Trafford Centre on the 17th March 2018.
 
-A team can reject an invite to the event, if they manage to get into the top four teams. In this case, the team placed below them will be offered. (E.G if 2nd place does not want the invite, then 5th place will be invited.)
+A team can reject an invite to the event, if they manage to get into the top four teams. In this case, the team placed below them will be offered. (E.G if 2nd place does not want the invite, then 3rd place will be invited.)
 
 #### Account Switching
 
