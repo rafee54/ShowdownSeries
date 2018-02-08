@@ -17,19 +17,11 @@ Registration
 
 #### Purchasing tickets
 
-When you go to purchase a ticket from [Dice](www.google.com), you will be prompted to enter your: 
+Please purchase a team ticket from [DICE](https://app.dice.fm/event/xedee-the-york-showdown-competitor-pass-17th-mar-james-college-york-tickets). This is one per team, not per university.
 
- - Forename
- - Surname
- - Team name
- - Steam profile link
- - Discord tag
+Once you have purchased a ticket, please send the confirmation email to Rafee (rjj513@york.ac.uk) along with the qualifier dates your team wants to participate in.
 
 This is so we can organise which players have signed up in which team. As well as contact you if any issues were to occur with your registration.
-
-You also have the option to purchase a team ticket, which will have four empty names on it, so you can decide on your roster closer to the qualifiers. You will have to submit names the week prior to qualifiers.
-
-You will also receive an email confirming your ticket.
 
 **Ticket sales close on the 16th February at noon, so we can start organising teams properly**
 
@@ -44,19 +36,21 @@ The qualifiers for the York Showdown are being held on 17th of February 2018 and
 
 #### On the day
 
-
-An exact time for checking in will be published closer to the time of the qualifiers. This time will be when all teams have to start getting on with the qualifiers. We expect teams to be prompt to the event and start of matches.
+We will be starting at 12pm on each day. This time will be when all teams have to start getting on with the qualifiers. We expect teams to be prompt to the event and start of matches. Please make sure that your team is ready before the starting time, so we can get on with the games. 
 
 #### Stand-ins
 
 If on the day of the qualifiers, one of your team mates cannot play, you may use one of your stand-ins. 
-The only requirements of the stand-in is that they cannot already be playing in one of the other teams in the qualifiers.
+
+You can swap players around between matches if need be. 
 
 #### Format
 
 The format of the qualifiers will be a double elimination with teams randomly seeded. 
 
 The top two at the end of each qualifier will be **invited** to the LAN finals on the 17th March 2018. Your team **does not** have to accept the invite. This is explained in more detail below.
+
+The upper bracket matches will be hosted using the FACEIT system, and the lower bracket games will be hosted manually by admins. 
 
 We will be using **Challonge** to keep track of teams progress.
 
@@ -89,7 +83,7 @@ The game must not be resumed before both teams agree with it. When the number or
 
 #### Invitations
 
-The top two teams from each qualifier will be invited to the LAN finals at the intu Trafford Centre on the 17th March 2018.
+The top two teams from each qualifier will be invited to the LAN finals at the University of York on the 17th March 2018.
 
 A team can reject an invite to the event, if they manage to get into the top four teams. In this case, the team placed below them will be offered. (E.G if 2nd place does not want the invite, then 3rd place will be invited.)
 
